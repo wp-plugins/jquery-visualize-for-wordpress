@@ -1,0 +1,33 @@
+Plugin Name: jqVisualize Charts
+Contributors: rubenal
+Plugin URI: http://www.persimon.biz/jquery-visualize-wordpress/
+Descripción: Usa el plugin Visuzlize de jQuery de forma fácil en tu blog de wordpress
+Version: 0.9
+Author: Ruben Asensi
+Author URI: http://www.persimon.biz
+Donate link:  http://www.persimon.biz
+Tags: jQuery, javascript, html5, graphs, graph, chart, charts, page, pages, plugin, plugins, post, posts, wordpress
+
+
+
+-Descripción
+
+Este plugin permite utilizar de una forma sencilla el plugin Visualize de jQuery en Wordpress.
+Sirve para construir gráficos de diversos tipos a partir de los datos de las tablas que incluyas en tus páginas o posts.
+Este plugin, ahora liberado para uso público, fue desarrollado para su uso en la web www.persimon.biz en la que se pueden encontrar diversos gráficos de ejemplo.
+
+-Instalación
+
+1. Subir el directorio del plugin completo al directorio plugins de Wordpress.
+2. Activar el plugin en la página de plugins del panel de control de Wordpress.
+3. Edita cualquier post o página para incluir una tabla de datos.
+4. Añade el atributo "class" a la etiqueta html "<tabla>", usa las siguientes clases:
+
+* Usa class="v-bar" para hacer un gráfico de barras
+* Usa class="v-pie" para hacer un gráfico de "tarta"
+* Usa class="v-area" para hacer un gráfico de area
+* Usa class="v-line" para hacer un gráfico de líneas
+
+-Licencia
+
+Este plugin está licenciado bajo la GPL, incluye el plugin de jQuery "Visualize" que está licenciado bajo la MIT license.
